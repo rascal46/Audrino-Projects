@@ -1,0 +1,14 @@
+the letters/numbers in the english language is converted to morse code using LED. Bluetooth connects the device by smartphone.
+
+Components:-
+
+Breadboard
+
+Audrino UNO
+
+HC05 Bluetooth
+
+Connecting Wires
+
+LED
+
